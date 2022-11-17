@@ -2,6 +2,7 @@
 
   $global = 'var global';
   echo $global;
+
   echo "<br>";
 
   function test() {
