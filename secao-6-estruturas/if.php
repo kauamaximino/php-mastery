@@ -5,3 +5,5 @@
   } else {
     echo "5 não é maior que 4";
   }
+
+?>
