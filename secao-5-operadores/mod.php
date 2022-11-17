@@ -5,3 +5,5 @@
   } else {
     echo "Impar";
   }
+
+?>
